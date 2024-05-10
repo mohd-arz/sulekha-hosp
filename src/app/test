@@ -1,0 +1,121 @@
+// const cards = [
+  //   {
+  //     id: 1,
+  //     title: "Mountain Sunset",
+  //     description:
+  //       "The hues of the sunset settling over the mountain provide a breathtaking view as night falls.",
+  //     imageUrl: "/images/Dr Abderezak Hadrouf.png  ",
+  //     altText: "Sunset in the mountains",
+  //   },
+  //   {
+  //     id: 2,
+  //     title: "Forest Path",
+  //     description:
+  //       "A serene walk through the timeless woods, where every step tells a story.",
+  //     imageUrl: "https://via.placeholder.com/400",
+  //     altText: "Forest Path",
+  //   },
+  //   {
+  //     id: 3,
+  //     title: "City Life",
+  //     description:
+  //       "Experience the hustle and bustle of urban living in a vibrant cityscape.",
+  //     imageUrl: "https://via.placeholder.com/400",
+  //     altText: "City Life",
+  //   },
+  //   {
+  //     id: 4,
+  //     title: "Beachfront",
+  //     description:
+  //       "Feel the sand between your toes and the salty air on your face at our exclusive beachfront.",
+  //     imageUrl: "https://via.placeholder.com/400",
+  //     altText: "Beachfront",
+  //   },
+  //   {
+  //     id: 5,
+  //     title: "Mountain Sunset",
+  //     description:
+  //       "The hues of the sunset settling over the mountain provide a breathtaking view as night falls.",
+  //     imageUrl: "https://via.placeholder.com/400",
+  //     altText: "Sunset in the mountains",
+  //   },
+  //   {
+  //     id: 6,
+  //     title: "Forest Path",
+  //     description:
+  //       "A serene walk through the timeless woods, where every step tells a story.",
+  //     imageUrl: "https://via.placeholder.com/400",
+  //     altText: "Forest Path",
+  //   },
+  //   {
+  //     id: 7,
+  //     title: "City Life",
+  //     description:
+  //       "Experience the hustle and bustle of urban living in a vibrant cityscape.",
+  //     imageUrl: "https://via.placeholder.com/400",
+  //     altText: "City Life",
+  //   },
+  //   {
+  //     id: 8,
+  //     title: "Beachfront",
+  //     description:
+  //       "Feel the sand between your toes and the salty air on your face at our exclusive beachfront.",
+  //     imageUrl: "https://via.placeholder.com/400",
+  //     altText: "Beachfront",
+  //   },
+
+  //   {
+  //     id: 9,
+  //     title: "Beachfront",
+  //     description:
+  //       "Feel the sand between your toes and the salty air on your face at our exclusive beachfront.",
+  //     imageUrl: "https://via.placeholder.com/400",
+  //     altText: "Beachfront",
+  //   },
+  //   {
+  //     id: 10,
+  //     title: "Beachfront",
+  //     description:
+  //       "Feel the sand between your toes and the salty air on your face at our exclusive beachfront.",
+  //     imageUrl: "https://via.placeholder.com/400",
+  //     altText: "Beachfront",
+  //   },
+  //   {
+  //     id: 11,
+  //     title: "Beachfront",
+  //     description:
+  //       "Feel the sand between your toes and the salty air on your face at our exclusive beachfront.",
+  //     imageUrl: "https://via.placeholder.com/400",
+  //     altText: "Beachfront",
+  //   },
+  //   {
+  //     id: 12,
+  //     title: "Beachfront",
+  //     description:
+  //       "Feel the sand between your toes and the salty air on your face at our exclusive beachfront.",
+  //     imageUrl: "https://via.placeholder.com/400",
+  //     altText: "Beachfront",
+  //   },
+  //   {
+  //     id: 13,
+  //     title: "Beachfront",
+  //     description:
+  //       "Feel the sand between your toes and the salty air on your face at our exclusive beachfront.",
+  //     imageUrl: "https://via.placeholder.com/400",
+  //     altText: "Beachfront",
+  //   },
+  // ];
+
+
+
+// *input box 
+//   <input
+//   type="text"
+//   placeholder=""
+//   className="pl-4 pr-10 py-4 border-2 border-gray-300 rounded-lg focus:outline-none focus:border-blue-500"
+//   style={{
+//       paddingLeft: "calc(1rem + 4px)",
+//       borderLeftColor: "#003f82",
+//       borderLeftWidth: "2px",
+//   }}
+// />
